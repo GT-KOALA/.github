@@ -1,4 +1,4 @@
-## Welcome to KOALAS: Knowledge Of Algorithms, Learning, And Society 👋
+## Welcome to KOALAS: Knowledge of Optimization, Algorithms, Learning, And Society! 👋
 This is the Github home page of the KOALAS group at Georgia Institute of Technology led by Professor [Kai Wang](https://guaguakai.com/).
 You can find research repositories, tutorial and workshop information, and teaching materials here.
 If you are interested in collaborating or joining, please consider [reaching out to us](https://guaguakai.com/team).
