@@ -1,4 +1,6 @@
-## Welcome to Georgia Tech KOALA Lab: Knowledge of Optimization, Algorithm, Learning, and Alignment! 🐨
+## Welcome to Georgia Tech KOALA Lab 🐨
+# Knowledge of Optimization, Algorithm, Learning, and Alignment! 
+
 This is the Github home page of the KOALA group at Georgia Institute of Technology led by Professor [Kai Wang](https://guaguakai.com/).
 You can find research repositories, tutorial and workshop information, and teaching materials here.
 If you are interested in collaborating or joining, please consider [reaching out to us](https://guaguakai.com/team).
