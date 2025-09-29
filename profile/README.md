@@ -1,4 +1,4 @@
-# Welcome to Georgia Tec KOALA Lab 🐨
+# Welcome to Georgia Tech KOALA Lab 🐨
 
 This is the Github home page of the KOALA (Knowledge of Optimization and Learning Algorithms) for Social Impact Lab at Georgia Institute of Technology led by Professor [Kai Wang](https://guaguakai.com/).
 You can find research repositories, tutorial and workshop information, and teaching materials here.
